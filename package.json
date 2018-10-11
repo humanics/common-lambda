@@ -1,6 +1,6 @@
 {
   "name": "@humanics/common-lambda",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lambda creation helpers",
   "main": "index.js",
   "scripts": {
